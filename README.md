@@ -4,7 +4,8 @@
 <p align="left">
 <a href="https://twitter.com/sarthaknegi009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthaknegi009" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarthak-negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-negi" height="30" width="40" /></a>
-<a href="https://medium.com/@sarthaknegi908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sarthaknegi908" height="30" width="40" /></a>
+
+<a href="https://sarthak007.hashnode.dev/" target="blank"><img align="center" src="https://www.svgrepo.com/svg/353859/hashnode-icon" alt="@sarthaknegi908" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
