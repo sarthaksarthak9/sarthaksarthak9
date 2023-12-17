@@ -1,5 +1,5 @@
-<h1> Hello👋 I am Sarthak</h1>
-- I am passionate about devOps and all the lastest advancement in cloud-native ecosystem.
+<h1> Hello I am Sarthak</h1>
+- I am passionate about devOps and all the lastest advancement in cloud-native ecosystem.<br>
 - I worked as LFX'23 fall Mentee for KubeEdge project.
 
 <h3 align="left">Connect with me:</h3>
