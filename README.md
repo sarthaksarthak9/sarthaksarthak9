@@ -1,7 +1,7 @@
 <h1> Hello I am Sarthak</h1>
 - I am passionate about devOps and all the lastest advancement in cloud-native ecosystem.<br>
 - I worked as a LFX'23 fall Mentee for KubeEdge project.
-- I love to share about my learnings with the help of [blogs](https://sarthak007.hashnode.dev/)
+- I love to share about my learnings with the help of [blogs] (https://sarthak007.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
