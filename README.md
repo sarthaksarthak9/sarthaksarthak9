@@ -1,7 +1,7 @@
 <h1> Hello I am Sarthak</h1>
 - I am passionate about devOps and all the lastest advancement in cloud-native ecosystem.<br>
 - I worked as a LFX'23 fall Mentee for KubeEdge project.<br>
-- I also try to share my knowledge on my [Blog](https://rakshitgondwal.github.io/blogs/) about CNCF projects, DevOps, Open Source etc.
+- I love to share about my learnings through <a href="https://sarthak007.hashnode.dev/" target="blank">blogs</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
