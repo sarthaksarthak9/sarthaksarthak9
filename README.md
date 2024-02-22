@@ -5,6 +5,8 @@
 - I am core team member of OSDC(open sorce developer community)<br>
 - I love to share about my learnings through <a href="https://sarthak007.hashnode.dev/" target="blank">Blog</a>.
 
+![cool](https://github.com/sarthaksarthak9/sarthaksarthak9/assets/122533767/fbea1681-f06f-4890-bafb-98a45e914254)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sarthaknegi009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthaknegi009" height="30" width="40" /></a>
