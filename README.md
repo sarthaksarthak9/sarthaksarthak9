@@ -1,5 +1,5 @@
 <h1> Hello I am Sarthak</h1>
-- I am passionate about devOps and all the lastest advancement in cloud-native ecosystem.<br>
+- I am passionate about cloud-native.<br>
 - I am working as a SOK'23 (season of KDE) mentee for KEcoLab project.<br>
 - I worked as a LFX'23 fall Mentee for KubeEdge project.<br>
 - I am core team member of OSDC(open sorce developer community)<br>
