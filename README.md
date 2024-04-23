@@ -1,7 +1,7 @@
 <h1> Hello I am Sarthak</h1>
 - I am passionate about cloud-native.<br>
 - I worked as a LFX'23 fall Mentee for KubeEdge project.<br>
-- I am worked as a SOK'24 (season of KDE) mentee for KEcoLab project.<br>
+- I worked as a SOK'24 (season of KDE) mentee for KEcoLab project.<br>
 - I am a core team member of OSDC(open sorce developer community)<br>
 - I love to share about my learnings through <a href="https://sarthak007.hashnode.dev/" target="blank">Blog</a>.<br><br>
 <div>
