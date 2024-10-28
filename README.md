@@ -4,7 +4,7 @@
 - I worked as a LFX'23 mentee for KubeEdge project<br>
 - I worked as a SOK'24 (season of KDE) mentee for KEcoLab project<br>
 - I am a core team member of OSDC(open sorce developer community)<br>
-- I love to share about my learnings through <a href="https://sarthak007.hashnode.dev/" target="blank">Blog</a><br><br>
+- I love to share about my learnings through <a href="https://sarthak007.hashnode.dev/" target="blank">Blog</a><br> <br>
 <div>
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
